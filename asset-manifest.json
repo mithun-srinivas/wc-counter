@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wc-counter/static/css/main.49755528.css",
+    "main.js": "/wc-counter/static/js/main.50598d87.js",
+    "index.html": "/wc-counter/index.html",
+    "main.49755528.css.map": "/wc-counter/static/css/main.49755528.css.map",
+    "main.50598d87.js.map": "/wc-counter/static/js/main.50598d87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49755528.css",
+    "static/js/main.50598d87.js"
+  ]
+}
